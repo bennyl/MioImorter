@@ -1,4 +1,5 @@
-Exporting data from Mio to to Training Center Database XML (TCX) file format.
+Exporting data from Mio Go Andoid app to the Training Center Database XML (TCX) file format.
+It was tested with version 2.6.2 and the data could be imported in Strava including GPS tracks and heartrate.
 
 First, get the data from the phone. Debug mode needs to be enabled and Android SDK is needed as well.
 
